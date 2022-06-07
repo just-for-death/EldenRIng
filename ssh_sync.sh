@@ -1,6 +1,6 @@
  #!/usr/bin/env sh
 
-SSH_PATH="/home/elsa/Games/EldenRIng"
+SSH_PATH="/home/elsa/Games/Elden Ring/EldenRIng/"
 
 cd "$SSH_PATH"
 
